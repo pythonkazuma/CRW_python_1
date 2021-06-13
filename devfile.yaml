@@ -12,7 +12,7 @@ components:
       python.globalModuleInstallation: true
     type: chePlugin
   - mountSources: true
-    memoryLimit: 1024Mi
+    memoryLimit: 512Mi
     type: dockerimage
     alias: python
     image: 'registry.redhat.io/codeready-workspaces/plugin-java8-rhel8@sha256:ecaa9ddef5ca8db9552f1b5e66f7aacb19d72e488d718d8135b1e1d9f66a1a7a'
