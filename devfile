@@ -5,7 +5,8 @@ projects:
   - name: python-hello-world
     source:
       //location: 'https://devfile-registry-workspaces.apps-crc.testing/resources/python-python-hello-world-master.zip'
-      location : 'https://github.com/pythonkazuma/CRW_python_1.git'
+      location: 'https://github.com/pythonkazuma/CRW_python_1/archive/refs/heads/main.zip'
+      //location : 'https://github.com/pythonkazuma/CRW_python_1.git'
       type: zip
 components:
   - id: ms-python/python/latest
