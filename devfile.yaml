@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: python-hello-world
     source:
-      location: 'https://github.com/pythonkazuma/CRW_python_1/archive/refs/heads/main.zip'
+      location: 'https://github.com/pythonkazuma/CRW_python_1.git'
       type: git
 components:
   - id: ms-python/python/latest
